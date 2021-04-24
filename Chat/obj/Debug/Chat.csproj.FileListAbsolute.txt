@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\Chat\Chat\obj\Debug\Chat.pdb

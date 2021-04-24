@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4S6ljZGS5g+NUBzmKCy3bwEEXJMQmFgXfSJ2Z8tpoW0pZ2VQAcBmOFFzwPA6OqrjXZWjdIbOQB9PbpZ2ku3Nsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\WPF Lessons\\Lesson 6 (Socket)\\Chat\\ClientWPFInterface\\ClientWPFInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
